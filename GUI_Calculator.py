@@ -1,5 +1,5 @@
 '''
-Description: The following code is to write a program to make a basi calculator.
+Description: The following code is to write a program to make a basic calculator.
              The calculator should be displayed in a small GUI when you run the program.
 '''
 
