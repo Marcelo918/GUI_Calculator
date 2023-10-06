@@ -1,3 +1,22 @@
+'''
+Description: The following code is to write a program to make a basi calculator.
+             The calculator should be displayed in a small GUI when you run the program.
+'''
+
+'''
+# ******************************************************************************
+# *                               COPYRIGHT NOTICE                             *
+# ******************************************************************************
+# *                                                                            *
+# *  This code is authored by Marcelo Villalobos Diaz                          *
+# *  You are free to use, modify, and distribute this code, provided           *
+# *  you give appropriate credit by including the author's name.               *
+# *                                                                            *
+# *  Copyright (c) 2023 Marcelo Villalobos Diaz                                *
+# *                                                                            *
+# ******************************************************************************
+'''
+
 import tkinter # library to make GUIs
 
 w = [] # empty list to hold the buttons
